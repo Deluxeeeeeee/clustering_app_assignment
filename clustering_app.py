@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Apr 22 11:00:48 2025
+
+@author: thutazaw
+"""
+
 import streamlit as st
 import matplotlib.pyplot as plt
 from sklearn.datasets import load_iris
